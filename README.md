@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> BitScreen, the easiest and most capable screenshot sharing program out there.
+**BitScreen, the easiest and most capable screenshot sharing program out there.**
 
 > BitScreen is a screenshot sharing program created in python.
 > This project is opensource and free to download!
