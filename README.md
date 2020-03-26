@@ -6,11 +6,12 @@
 
 ``BitScreen is a screenshot sharing program created in python.
 This project is opensource and free to download!
-Wiki:``
+Wiki: https://github.com/BitBiz-nl/BitScreen/wiki/Building-from-source``
 
 ## Dependencies
 
  Dependencies for building from source:
+ Wiki: https://github.com/BitBiz-nl/BitScreen/wiki/Building-from-source
 
 - Python 3.x
 - Python modules:
