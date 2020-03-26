@@ -25,12 +25,12 @@ Wiki:``
 ## Installation
 
 Download Installer:
-- Download the installer from this page.
+- Download the installer from <a href="https://bitbiz.nl/software/">this page.</a>
 - Open the installer and follow the steps 
 - After the installation you can open the program and click on the start process button.
 - Keybinds: f2 or f12
 
-Download for building from source:
-- Clone the reposetory
+Download building from source:
+- Clone the repository
 - Install the Dependencies
 - Edit the file!
