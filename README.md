@@ -8,7 +8,7 @@
 > This project is opensource and free to download!
 > Wiki:
 
-## Code Samples
+## Dependencies
 
 > Dependencies for building from source.
 
