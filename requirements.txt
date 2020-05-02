@@ -1,0 +1,3 @@
+infi.systray==0.1.12
+win10toast==0.9
+py-notifier==0.1.0
