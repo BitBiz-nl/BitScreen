@@ -16,11 +16,8 @@ Wiki: https://github.com/BitBiz-nl/BitScreen/wiki/Building-from-source
 - Python 3.x
 - Python modules:
 - Tkinter
-- urllib.request
 - webbrowser
-- os
 - pynotifier
-- sys
 - infi.systray
 
 ## Installation
